@@ -1,5 +1,3 @@
-<img src="https://www.re-skinning.com/img/logo.png" align="right" />
-
 # Twitch Followers Landing Page
 > By Mohammed Cha & Re-Skinning Grp
 
