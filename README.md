@@ -18,7 +18,5 @@ $cpa_link = 'https://verifyit.xyz/5683f7c';  // رابط قفل المحتوى �
 </pre>
 
 
-You can watch a video explaining how to install the page from [ here ](https://re-skinning.com/twitch)
+You can watch video [ here ](https://www.facebook.com/permalink.php?story_fbid=pfbid0vM3ypSYrftt2vdoW9DHM5KeedasYV5uK6CaSE63NKVKyXaQ1PB5r4uDw39chahLil&id=100086219852248)
 
-
-- [ DEMO ](https://re-skinning.com/twitch) - Free twitch Followers Landing Page
